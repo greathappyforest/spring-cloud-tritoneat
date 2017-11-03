@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: edging-service
+zuul:
+  routes:
+    tritoneat-user-info-service:
+      path: /tritoneat-user-info-service/**
+      url: http://127.0.0.1:8001
+    tritoneat-restaurant-info-service:
+          path: /tritoneat-restaurant-info-service/**
+          url: http://127.0.0.1:8002
+    tritoneat-order-process-service:
+              path: /tritoneat-order-process-service/**
+              url: http://127.0.0.1:8003

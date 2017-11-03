@@ -1,0 +1,161 @@
+[{
+  "restaurantName": "restaurant1",
+  "restaurantType": "SEAFOOD",
+  "address": "123 hello street",
+  "city": "Los Angeles",
+  "zip": "92001",
+  "restaurantPhoneNumber":"3101111111",
+  "hourOpen": 6,
+  "hourClose": 20,
+  "menu": [
+    {
+      "itemName": "SEAFOOD1",
+      "itemPrice": "11"
+    },
+    {
+      "itemName": "SEAFOOD2",
+      "itemPrice": "12"
+    },
+    {
+      "itemName": "SEAFOOD3",
+      "itemPrice": "13"
+    },
+    {
+      "itemName": "SEAFOOD4",
+      "itemPrice": "10"
+    },
+	 {
+      "itemName": "SEAFOOD4",
+      "itemPrice": "12"
+    }
+  ]
+},
+{
+  "restaurantName": "restaurant2",
+  "restaurantType": "CHINESEFOOD",
+  "address": "456 hello street",
+  "city": "Los Angeles",
+  "zip": "92002",
+  "restaurantPhoneNumber":"3102222222",
+  "hourOpen": 7,
+  "hourClose": 21,
+  "menu": [
+    {
+      "itemName": "CHINESEFOOD1",
+      "itemPrice": "11"
+    },
+    {
+      "itemName": "CHINESEFOOD2",
+      "itemPrice": "12"
+    },
+    {
+      "itemName": "CHINESEFOOD3",
+      "itemPrice": "15"
+    },
+    {
+      "itemName": "CHINESEFOOD4",
+      "itemPrice": "9"
+    },
+	 {
+      "itemName": "CHINESEFOOD5",
+      "itemPrice": "7"
+    }
+  ]
+},
+{
+  "restaurantName": "restaurant3",
+  "restaurantType": "CHINESEFOOD",
+  "address": "666 hello street",
+  "city": "Los Angeles",
+  "zip": "92002",
+  "restaurantPhoneNumber":"3103333333",
+  "hourOpen": 1,
+  "hourClose": 23,
+  "menu": [
+    {
+      "itemName": "CHINESEFOOD1",
+      "itemPrice": "11"
+    },
+    {
+      "itemName": "CHINESEFOOD2",
+      "itemPrice": "12"
+    },
+    {
+      "itemName": "CHINESEFOOD3",
+      "itemPrice": "15"
+    },
+    {
+      "itemName": "CHINESEFOOD4",
+      "itemPrice": "9"
+    },
+	 {
+      "itemName": "CHINESEFOOD5",
+      "itemPrice": "7"
+    }
+  ]
+},
+{
+  "restaurantName": "restaurant4",
+  "restaurantType": "FASTFOOD",
+  "address": "777 hello street",
+  "city": "Los Angeles",
+  "zip": "92002",
+  "restaurantPhoneNumber":"3104444444",
+  "hourOpen": 2,
+  "hourClose": 22,
+  "menu": [
+    {
+      "itemName": "FASTFOOD1",
+      "itemPrice": "11"
+    },
+    {
+      "itemName": "FASTFOOD2",
+      "itemPrice": "12"
+    },
+    {
+      "itemName": "FASTFOOD3",
+      "itemPrice": "15"
+    },
+    {
+      "itemName": "FASTFOOD4",
+      "itemPrice": "9"
+    },
+	 {
+      "itemName": "FASTFOOD5",
+      "itemPrice": "7"
+    }
+  ]
+},
+{
+  "restaurantName": "restaurant5",
+  "restaurantType": "JAPANESEFOOD",
+  "address": "888 hello street",
+  "city": "Los Angeles",
+  "zip": "92002",
+  "restaurantPhoneNumber":"3105555555",
+  "hourOpen": 2,
+  "hourClose": 22,
+  "menu": [
+    {
+      "itemName": "JAPANESEFOOD1",
+      "itemPrice": "11"
+    },
+    {
+      "itemName": "JAPANESEFOOD2",
+      "itemPrice": "12"
+    },
+    {
+      "itemName": "JAPANESEFOOD3",
+      "itemPrice": "15"
+    },
+    {
+      "itemName": "JAPANESEFOOD4",
+      "itemPrice": "9"
+    },
+	 {
+      "itemName": "JAPANESEFOOD5",
+      "itemPrice": "7"
+    }
+  ]
+}
+]

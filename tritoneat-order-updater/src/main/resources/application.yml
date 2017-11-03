@@ -1,0 +1,9 @@
+server:
+  port: 8005
+spring:
+  application:
+    name: tritoneat-order-updater
+  cloud:
+    stream:
+      bindings:
+        input: orders

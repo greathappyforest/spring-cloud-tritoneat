@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/edging-service/edging-service.iml" filepath="$PROJECT_DIR$/edging-service/edging-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/eureka/eureka.iml" filepath="$PROJECT_DIR$/platform/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/platform/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform/platform.iml" filepath="$PROJECT_DIR$/platform/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-tritoneat.iml" filepath="$PROJECT_DIR$/spring-cloud-tritoneat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tritoneat-order-distribution/tritoneat-order-distribution.iml" filepath="$PROJECT_DIR$/tritoneat-order-distribution/tritoneat-order-distribution.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tritoneat-order-process-service/tritoneat-order-process-service.iml" filepath="$PROJECT_DIR$/tritoneat-order-process-service/tritoneat-order-process-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tritoneat-order-updater/tritoneat-order-updater.iml" filepath="$PROJECT_DIR$/tritoneat-order-updater/tritoneat-order-updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tritoneat-restaurant-info-service/tritoneat-restaurant-info-service.iml" filepath="$PROJECT_DIR$/tritoneat-restaurant-info-service/tritoneat-restaurant-info-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tritoneat-user-info-service/tritoneat-user-info-service.iml" filepath="$PROJECT_DIR$/tritoneat-user-info-service/tritoneat-user-info-service.iml" />
+    </modules>
+  </component>
+</project>

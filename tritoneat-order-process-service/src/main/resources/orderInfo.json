@@ -1,0 +1,21 @@
+{
+	"userName":"user1",
+	"restaurantName":"restaurant1",
+  "orderItems": [
+    {
+      "itemName": "zzzz",
+      "itemPrice": 3,
+      "numsOfItem": 4
+    },
+    {
+      "itemName": "aaa",
+      "itemPrice": 6,
+      "numsOfItem": 2
+    },
+    {
+      "itemName": "bbb",
+      "itemPrice": 5,
+      "numsOfItem": 3
+    }
+  ]
+}
