@@ -35,7 +35,14 @@ A backend project design for online ordering platform.Customer are able to searc
    java -jar ./tritoneat-order-distribution/target/tritoneat-order-process-distrubution-1.0.0.BUILD-SNAPSHOT.jar 
    java -jar ./tritoneat-order-updater/target/tritoneat-order-updater-1.0.0.BUILD-SNAPSHOT.jar 
   ```
-  
+- Test Sample Data
+  - RestauarntInfo data:  ```/tritoneat-restaurant-info-service/src/main/resources/restaurantInfo.json```  
+     <a href="tritoneat-restaurant-info-service/src/main/resources/restaurantInfo.json">restaurantInfo.json</a>
+  - UserInfo data: ```/tritoneat-user-info-service/src/main/resources/userInfo.json ```  
+     <a href="tritoneat-user-info-service/src/main/resources/userInfo.json">userinfo.json</a>
+  - OrderInfo data: ```/tritoneat-order-process-service/src/main/resources/orderInfo.json```  
+    <a href="tritoneat-order-process-service/src/main/resources/orderInfo.json">orderinfo.json</a>  
+- Note: Before post orderinfo, please post restaurantinfo and userinfo first.
 
 ## Web port GUI
   -  For Customer order food, visit http://localhost:8003
